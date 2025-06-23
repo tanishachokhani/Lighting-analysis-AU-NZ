@@ -14,5 +14,5 @@ We conduct **T-tests** and **MLR inference analyses** to identify key drivers of
 <img width="845" alt="Screenshot 2025-06-23 at 6 02 31 pm" src="https://github.com/user-attachments/assets/34661b22-ef93-48fb-9d6d-b170cfa70170" />
 
 <img width="841" alt="Screenshot 2025-06-23 at 6 14 06 pm" src="https://github.com/user-attachments/assets/c4a5b53c-e38d-46b8-90b9-deb691a48eeb" />
-<img width="904" alt="Screenshot 2025-06-23 at 6 15 17 pm" src="https://github.com/user-attachments/assets/997e12e8-65fc-436e-80e9-26736f4a4b16" />
+<img width="862" alt="Screenshot 2025-06-23 at 6 17 24 pm" src="https://github.com/user-attachments/assets/22742e11-085e-455a-a2ed-a8a9caac8e40" />
 
